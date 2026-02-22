@@ -1,1 +1,1 @@
-   were      4 test
+was   4 test
